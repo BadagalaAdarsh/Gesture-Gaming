@@ -10,7 +10,7 @@ Calculate slope between centers of fists, if negative : turn-right else turn lef
 
 Calculate distance between centres of fists and convert to speed. If distance is zero, apply brake.
 
-<img src="blob:https://web.whatsapp.com/74e9c021-9356-4fc2-8f77-f41f2d095156" width=300 height=250>
+<img src="https://github.com/BadagalaAdarsh/Gesture-Gaming/blob/main/Image/hands.jpeg" width=300 height=250>
 
 
 
