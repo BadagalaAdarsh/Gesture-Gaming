@@ -12,6 +12,10 @@ Calculate distance between centres of fists and convert to speed. If distance is
 
 <img src="https://github.com/BadagalaAdarsh/Gesture-Gaming/blob/main/Image/hands.jpeg" width=300 height=250>
 
+## This is how the above program works
+
+<img src = "https://github.com/BadagalaAdarsh/Gesture-Gaming/blob/main/GIF/Gesture_Gaming.gif" >
+
 
 
 
